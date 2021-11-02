@@ -1,1 +1,1 @@
-# Ktrain experiment done in MSMT project.
+# Ktrain experiment within MSMT project.
